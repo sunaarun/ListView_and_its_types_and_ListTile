@@ -1,6 +1,9 @@
 # listview_and_types
 
-A new Flutter project.
+A new Flutter project that shows how to use **ListView** and what is the differents between its types, and what a **ListTile** does and how it helps us to design beautiful UI.
+You can watch the episode on YouTube : https://youtu.be/GVQvWVfO3sc
+
+![listTile](https://user-images.githubusercontent.com/36349126/136556667-e85753ed-099a-4130-a20e-a97fdb568b7f.png)
 
 ## Getting Started
 
